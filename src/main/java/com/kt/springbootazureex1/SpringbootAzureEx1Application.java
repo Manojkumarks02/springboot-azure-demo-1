@@ -12,7 +12,7 @@ public class SpringbootAzureEx1Application {
 
 	@GetMapping("/message")
 	public String  message(){
-		return "welcome to azure...!";
+		return "welcome to azure...changes commited!";
 	}
 
 	public static void main(String[] args) {
